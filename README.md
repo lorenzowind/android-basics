@@ -1,1 +1,5 @@
-# [Android Basics: User interface](https://classroom.udacity.com/courses/ud834)
+# [Android Basics: User interface](https://www.udacity.com/course/android-basics-make-your-first-app--ud834)
+# [Android Basics: User input](https://www.udacity.com/course/android-basics-button-clicks--ud836)
+# [Android Basics: Multiscreen apps](https://www.udacity.com/course/android-basics-multi-screen-apps--ud839)
+# [Android Basics: Networking](https://www.udacity.com/course/android-basics-networking--ud843)
+# [Android Basics: Data Storage](https://www.udacity.com/course/android-basics-data-storage--ud845)

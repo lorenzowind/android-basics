@@ -19,6 +19,8 @@
 
 ## [RelativeLayout parameters](https://developer.android.com/reference/android/widget/RelativeLayout.LayoutParams.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics)
 
+## [ConstraintLayout](https://developer.android.com/training/constraint-layout)
+
 ## Adding XML namespace in the Root View
 ```
 xmlns:android="http://schemas.android.com/apk/res/android"
@@ -51,3 +53,12 @@ android:layout_marginBottom="8dp"
 android:padding="16dp"
 //android:paddingTop="8dp"
 ```
+
+## Drawing the app
+- Select the views
+- Position the views
+- Style the views
+
+## [Styling android](https://blog.stylingandroid.com/)
+
+## [Android developers blog](https://android-developers.googleblog.com/)
