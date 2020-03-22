@@ -16,7 +16,7 @@
 - Closing tags
 - Attributes
 - Syntax
-- Android Studio
+- [Android Studio](https://docs.google.com/document/d/1w1Xn_hnSAODAAtdRDp7haYPBtEwX_l7Htpf8Wpgbu6w/pub?embedded=true#h.yn0hald2288s)
 - Device
 - Density Independent Pixels (dp)
 - Hard coding (avoid it)
